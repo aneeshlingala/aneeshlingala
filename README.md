@@ -7,7 +7,7 @@
 
 ## 🧠 About Me
 
-- 🔭 Currently working on: **FRC Robotics / Linux stuff**
+- 🔭 Currently working on: **FRC, FTC Robotics / Linux stuff**
 - 🌱 Learning: **Low-level debugging, embedded systems**
 - 💻 Favorite tools: `bash`, `git`, `linux`, `wpilib`
 - ⚡ Fun fact: I break things to understand them
